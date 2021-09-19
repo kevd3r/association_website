@@ -7,8 +7,9 @@ body{
     padding-left: 1vh;
 }
 #title{
-    height: 30px;   
+    height: 10vh;   
     width: auto;
+    margin-top: 1.vh;
 }
 .underTitle{
     font-size: 0.7rem;
