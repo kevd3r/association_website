@@ -12,10 +12,21 @@ body{
     margin-top: 1.vh;
 }
 .underTitle{
-    font-size: 0.7rem;
+    font-size: 1rem;
     font-weight: bold;
     margin: 0;
     padding-left: 1vh;
     padding-top: 2vh;
     padding-bottom: 2vh;
+}
+.page_title{
+    font-size: 1.2rem;
+    margin-top: 1vh;
+    text-align: center;
+    font-weight: bold;
+}
+h3{
+    font-size: 1rem;
+    text-align: center;
+    font-weight: bold;
 }
